@@ -1,0 +1,19 @@
+ubuntu 12.04
+10.13.96.2
+login: root
+senha: shannonserver
+
+Vim:
+http://how-to.wikia.com/wiki/How_to_use_vim,_quick_tutorial
+
+VSFTPD:
+http://www.jonathanmoeller.com/screed/?p=3615
+
+pasta web:
+/var/www/
+
+Apache:
+sudo /etc/init.d/apache2 restart
+
+Mysql:
+mysql -u root -p
